@@ -417,12 +417,6 @@
         "rotation": 0
       },
       {
-        "name": "televisionModern",
-        "size": [4, 2],
-        "rotation": 0,
-        "gridPosition": [5, 9]
-      },
-      {
         "name": "lampRoundFloor",
         "size": [1, 1],
         "gridPosition": [11, 0],
