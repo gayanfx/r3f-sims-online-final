@@ -1,105 +1,69 @@
 [
   {
     "id": 1,
-    "name": "PARTY ROOM",
+    "name": "DANCE FLOOR",
     "password": "NORUSH",
     "items": [
       {
-        "name": "loungeSofaCorner",
-        "size": [5, 5],
-        "rotation": 3,
-        "gridPosition": [0, 0]
-      },
-      {
-        "name": "bear",
-        "size": [2, 1],
-        "wall": true,
-        "gridPosition": [2, 0],
+        "name": "rugRectangle",
+        "size": [8, 4],
+        "walkable": true,
+        "gridPosition": [3, 3],
         "rotation": 0
-      },
-      {
-        "name": "tableCoffeeGlassSquare",
-        "size": [2, 2],
-        "gridPosition": [5, 4],
-        "rotation": 0
-      },
-      {
-        "name": "loungeSofa",
-        "size": [5, 2],
-        "rotation": 1,
-        "gridPosition": [8, 2]
       },
       {
         "name": "plant",
         "size": [1, 1],
-        "gridPosition": [0, 6],
-        "rotation": 0
-      },
-      {
-        "name": "chairCushion",
-        "size": [1, 1],
-        "rotation": 1,
-        "gridPosition": [12, 4]
-      },
-      {
-        "name": "deskComputer",
-        "size": [3, 2],
-        "gridPosition": [10, 3],
-        "rotation": 1
-      },
-      {
-        "name": "deskComputer",
-        "size": [3, 2],
-        "gridPosition": [3, 10],
-        "rotation": 0
-      },
-      {
-        "name": "chairCushion",
-        "size": [1, 1],
-        "rotation": 0,
-        "gridPosition": [4, 12]
-      },
-      {
-        "name": "lampSquareFloor",
-        "size": [1, 1],
-        "gridPosition": [13, 0],
+        "gridPosition": [4, 0],
         "rotation": 0
       },
       {
         "name": "speaker",
         "size": [1, 1],
-        "gridPosition": [7, 0],
+        "gridPosition": [9, 0],
         "rotation": 0
       },
       {
-        "name": "speakerSmall",
+        "name": "plantSmall",
         "size": [1, 1],
-        "rotation": 2,
-        "gridPosition": [10, 6]
-      },
-      {
-        "name": "laptop",
-        "size": [1, 1],
-        "gridPosition": [6, 0],
+        "gridPosition": [3, 0],
         "rotation": 0
       },
       {
-        "name": "deskComputer",
-        "size": [3, 2],
-        "gridPosition": [8, 10],
+        "name": "plant",
+        "size": [1, 1],
+        "gridPosition": [1, 0],
         "rotation": 0
       },
       {
-        "name": "chairCushion",
+        "name": "plantSmall",
         "size": [1, 1],
-        "rotation": 0,
-        "gridPosition": [9, 12]
+        "gridPosition": [0, 0],
+        "rotation": 0
       },
       {
-        "name": "speakerSmall",
+        "name": "plantSmall",
         "size": [1, 1],
-        "rotation": 3,
-        "gridPosition": [0, 5]
+        "gridPosition": [1, 1],
+        "rotation": 0
+      },
+      {
+        "name": "plant",
+        "size": [1, 1],
+        "gridPosition": [0, 1],
+        "rotation": 0
+      },
+      {
+        "name": "plantSmall",
+        "size": [1, 1],
+        "gridPosition": [0, 2],
+        "rotation": 0
+      },
+      {
+        "name": "lampRoundFloor",
+        "size": [1, 1],
+        "gridPosition": [11, 0],
+        "rotation": 0
       }
     ]
   },
@@ -346,7 +310,7 @@
   },
   {
     "id": 4,
-    "name": "DANCE FLOOR",
+    "name": "OFFICE",
     "password": "NORUSH",
     "items": [
       {
