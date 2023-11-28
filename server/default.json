@@ -349,14 +349,12 @@
     "name": "DANCE FLOOR",
     "password": "NORUSH",
     "items": [
-      /*
       {
         "name": "tableCoffee",
         "size": [4, 2],
         "gridPosition": [5, 4],
         "rotation": 0
       },
-      */
       {
         "name": "rugRectangle",
         "size": [8, 4],
@@ -376,14 +374,12 @@
         "gridPosition": [9, 0],
         "rotation": 0
       },
-      /*
       {
         "name": "loungeChair",
         "size": [2, 2],
         "rotation": 2,
         "gridPosition": [6, 0]
       },
-      */
       {
         "name": "plantSmall",
         "size": [1, 1],
@@ -420,14 +416,12 @@
         "gridPosition": [0, 2],
         "rotation": 0
       },
-      /*
       {
         "name": "televisionModern",
         "size": [4, 2],
         "rotation": 0,
         "gridPosition": [5, 9]
       },
-      */
       {
         "name": "lampRoundFloor",
         "size": [1, 1],
