@@ -350,12 +350,6 @@
     "password": "NORUSH",
     "items": [
       {
-        "name": "tableCoffee",
-        "size": [4, 2],
-        "gridPosition": [5, 4],
-        "rotation": 0
-      },
-      {
         "name": "rugRectangle",
         "size": [8, 4],
         "walkable": true,
@@ -373,12 +367,6 @@
         "size": [1, 1],
         "gridPosition": [9, 0],
         "rotation": 0
-      },
-      {
-        "name": "loungeChair",
-        "size": [2, 2],
-        "rotation": 2,
-        "gridPosition": [6, 0]
       },
       {
         "name": "plantSmall",
