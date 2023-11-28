@@ -104,7 +104,7 @@ export const Lobby = () => {
               <h1 className="text-center text-white text-2xl font-bold">
                 WELCOME TO
                 <br />
-                WAWA MANSION
+                MEEPE!
               </h1>
               <p className="text-center text-white">
                 Please select a room to relax
